@@ -1,0 +1,20 @@
+{
+  "id": "pharmacy-platform",
+  "status": "passed",
+  "previousAIEntries": 88,
+  "mergedAssistants": 7,
+  "capabilitiesMappedExactlyOnce": true,
+  "canonicalPagesAndAliases": true,
+  "combinedQuestions": true,
+  "singleProviderCall": true,
+  "exactDuplicateRemoval": true,
+  "legacyHistoryPreserved": true,
+  "followups": true,
+  "sharedRecordContext": true,
+  "assistantIsolation": true,
+  "combinedWordLimit": true,
+  "mobile": true,
+  "nonAIPopup": true,
+  "provider": "mocked",
+  "verifiedAt": "2026-09-07T20:15:47.207Z"
+}

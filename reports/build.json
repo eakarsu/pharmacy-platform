@@ -1,0 +1,9 @@
+{
+  "app": "pharmacy-platform",
+  "features": 125,
+  "sourceApps": 10,
+  "calculatorEngines": 0,
+  "registryHash": "fba0f973f44848f7bcfa8906ad811d90570ba184e42b7ce583ca6a3744a8ce1a",
+  "builtAt": "2026-09-07T22:05:24.836Z",
+  "status": "built"
+}

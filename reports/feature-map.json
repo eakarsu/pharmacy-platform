@@ -1,0 +1,1332 @@
+{
+  "mapped": [
+    {
+      "project": "ai-340b-contract-pharmacy-audit-recovery",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-340b-contract-pharmacy-audit-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-340b-contract-pharmacy-audit-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-340b-contract-pharmacy-audit-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-340b-contract-pharmacy-audit-recovery",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-340b-contract-pharmacy-audit-recovery/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pbm-contract-rebate-audit",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-pbm-contract-rebate-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pbm-contract-rebate-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-pbm-contract-rebate-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pbm-contract-rebate-audit",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-pbm-contract-rebate-audit/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-government-pricing-rebate-reconciliation",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-pharma-government-pricing-rebate-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-government-pricing-rebate-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-pharma-government-pricing-rebate-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-government-pricing-rebate-reconciliation",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-pharma-government-pricing-rebate-reconciliation/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "contract-customer-registry",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/app.config.mjs",
+      "canonical": "contract-customer-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "identifier-hierarchy-mapping",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/app.config.mjs",
+      "canonical": "identifier-hierarchy-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "ndc-product-registry",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/app.config.mjs",
+      "canonical": "ndc-product-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "wholesaler-sales-ingestion",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/app.config.mjs",
+      "canonical": "wholesaler-sales-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "eligibility-date-validation",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/app.config.mjs",
+      "canonical": "eligibility-date-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "contract-price-calculation",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/app.config.mjs",
+      "canonical": "contract-price-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "wac-price-comparison",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/app.config.mjs",
+      "canonical": "wac-price-comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "chargeback-amount-calculation",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/app.config.mjs",
+      "canonical": "chargeback-amount-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "duplicate-claim-detection",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/app.config.mjs",
+      "canonical": "duplicate-claim-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "indirect-customer-validation",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/app.config.mjs",
+      "canonical": "indirect-customer-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "wholesaler-deduction-matching",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/app.config.mjs",
+      "canonical": "wholesaler-deduction-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "rejection-remediation",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/app.config.mjs",
+      "canonical": "rejection-remediation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "credit-memo-reconciliation",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/app.config.mjs",
+      "canonical": "credit-memo-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "accrual-true-up",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/app.config.mjs",
+      "canonical": "accrual-true-up",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "wholesaler-product-analytics",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/app.config.mjs",
+      "canonical": "wholesaler-product-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "ndc-and-drug-registry",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "ndc-and-drug-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "wholesaler-invoice-ingestion",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "wholesaler-invoice-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "contract-acquisition-cost-calculation",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "contract-acquisition-cost-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "rebate-and-allowance-accrual",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "rebate-and-allowance-accrual",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "claim-and-remittance-ingestion",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "claim-and-remittance-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "ingredient-cost-validation",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "ingredient-cost-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "dispensing-fee-validation",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "dispensing-fee-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "benchmark-comparison",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "benchmark-comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "negative-margin-detection",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "negative-margin-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "mac-appeal-eligibility",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "mac-appeal-eligibility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "reversal-and-rebill-analysis",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "reversal-and-rebill-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "specialty-margin-analysis",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "specialty-margin-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "wholesaler-credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "wholesaler-credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "payer-appeal-generation",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "payer-appeal-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "recovered-margin-ledger",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "recovered-margin-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "drug-payer-and-location-analytics",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/app.config.mjs",
+      "canonical": "drug-payer-and-location-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "pbm-contract-library",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/app.config.mjs",
+      "canonical": "pbm-contract-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "network-amendment-control",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/app.config.mjs",
+      "canonical": "network-amendment-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "prescription-claim-ingestion",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/app.config.mjs",
+      "canonical": "prescription-claim-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "performance-measure-calculation",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/app.config.mjs",
+      "canonical": "performance-measure-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "dir-estimate-accrual",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/app.config.mjs",
+      "canonical": "dir-estimate-accrual",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "dir-fee-recalculation",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/app.config.mjs",
+      "canonical": "dir-fee-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "ger-guarantee-analysis",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/app.config.mjs",
+      "canonical": "ger-guarantee-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "brand-generic-mix-validation",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/app.config.mjs",
+      "canonical": "brand-generic-mix-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "network-rebate-calculation",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/app.config.mjs",
+      "canonical": "network-rebate-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "remittance-adjustment-matching",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/app.config.mjs",
+      "canonical": "remittance-adjustment-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "negative-balance-review",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/app.config.mjs",
+      "canonical": "negative-balance-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "pharmacy-dispute-package",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/app.config.mjs",
+      "canonical": "pharmacy-dispute-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "pbm-response-workflow",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/app.config.mjs",
+      "canonical": "pbm-response-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "cash-credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/app.config.mjs",
+      "canonical": "cash-credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "pbm-store-analytics",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/app.config.mjs",
+      "canonical": "pbm-store-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "ProductionDay",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "production-day",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "RadiopharmacyOrder",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "radiopharmacy-order",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "ProductionLot",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "production-lot",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "OrderLotAssignment",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "order-lot-assignment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "AssayRecord",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "assay-record",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "BatchCheck",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "batch-check",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "DeliveryDispatch",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "delivery-dispatch",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "DeliveryReceipt",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "delivery-receipt",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "ProductionException",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "production-exception",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "order-scheduling-brief",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "order-scheduling-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "batch-document-completeness",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "batch-document-completeness",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "assay-record-reconciliation",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "assay-record-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "expiry-conflict-summary",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "expiry-conflict-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "courier-handoff-draft",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "courier-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "production-exception-narrative",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "production-exception-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "ndc-and-drug-inventory",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/app.config.mjs",
+      "canonical": "ndc-and-drug-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "purchase-cost-ingestion",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/app.config.mjs",
+      "canonical": "purchase-cost-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "appointment-matching",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/app.config.mjs",
+      "canonical": "appointment-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "administration-reconciliation",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/app.config.mjs",
+      "canonical": "administration-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "ndc-to-hcpcs-crosswalk",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/app.config.mjs",
+      "canonical": "ndc-to-hcpcs-crosswalk",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "j-code-validation",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/app.config.mjs",
+      "canonical": "j-code-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "unit-conversion-calculation",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/app.config.mjs",
+      "canonical": "unit-conversion-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "wastage-modifier-control",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/app.config.mjs",
+      "canonical": "wastage-modifier-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "prior-authorization-linkage",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/app.config.mjs",
+      "canonical": "prior-authorization-linkage",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "payer-reimbursement-calculation",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/app.config.mjs",
+      "canonical": "payer-reimbursement-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "missing-charge-detection",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/app.config.mjs",
+      "canonical": "missing-charge-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "underpayment-identification",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/app.config.mjs",
+      "canonical": "underpayment-identification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "denial-remediation",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/app.config.mjs",
+      "canonical": "denial-remediation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "replacement-drug-tracking",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/app.config.mjs",
+      "canonical": "replacement-drug-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "drug-payer-and-site-analytics",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/app.config.mjs",
+      "canonical": "drug-payer-and-site-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "manufacturer-agreement-library",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/app.config.mjs",
+      "canonical": "manufacturer-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "ndc-product-registry",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/app.config.mjs",
+      "canonical": "ndc-product-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "eligible-dispense-ingestion",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/app.config.mjs",
+      "canonical": "eligible-dispense-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "patient-program-qualification",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/app.config.mjs",
+      "canonical": "patient-program-qualification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "volume-tier-calculation",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/app.config.mjs",
+      "canonical": "volume-tier-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "market-share-calculation",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/app.config.mjs",
+      "canonical": "market-share-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "adherence-measure-validation",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/app.config.mjs",
+      "canonical": "adherence-measure-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "outcome-guarantee-evidence",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/app.config.mjs",
+      "canonical": "outcome-guarantee-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "data-submission-sla",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/app.config.mjs",
+      "canonical": "data-submission-sla",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "invoice-generation",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/app.config.mjs",
+      "canonical": "invoice-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "manufacturer-deduction-review",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/app.config.mjs",
+      "canonical": "manufacturer-deduction-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "credit-memo-reconciliation",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/app.config.mjs",
+      "canonical": "credit-memo-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "dispute-package",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/app.config.mjs",
+      "canonical": "dispute-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "cash-collection-tracking",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/app.config.mjs",
+      "canonical": "cash-collection-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "program-drug-economics",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/app.config.mjs",
+      "canonical": "program-drug-economics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/prescriptions",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "prescriptions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/drug-reviews",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "drug-reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/claims",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "claims",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/controlled",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "controlled",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/patients",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "patients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/interactions",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "interactions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/suppliers",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "suppliers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/staff",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "staff",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/adverse-events",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "adverse-events",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/transfers",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "transfers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/financials",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "financials",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/scheduling",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "scheduling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/reorder-optimizer",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "reorder-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "sourceKey": "/formulary-review",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "canonical": "formulary-review",
+      "kind": "definition"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-pharma-wholesaler-chargeback-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-pharmacy-dir-fee-rebate-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-radiopharmacy-production-and-delivery",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-specialty-drug-buy-bill-charge-capture",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager/frontend/src/pages/Dashboard.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPharmacyOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPharmacyOperationsManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "contract-customer-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "identifier-hierarchy-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ndc-product-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "wholesaler-sales-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "eligibility-date-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "contract-price-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "wac-price-comparison",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "chargeback-amount-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-claim-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "indirect-customer-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "wholesaler-deduction-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rejection-remediation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-memo-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "accrual-true-up",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "wholesaler-product-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ndc-and-drug-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "wholesaler-invoice-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "contract-acquisition-cost-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rebate-and-allowance-accrual",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-and-remittance-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ingredient-cost-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dispensing-fee-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "benchmark-comparison",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "negative-margin-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "mac-appeal-eligibility",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reversal-and-rebill-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "specialty-margin-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "wholesaler-credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payer-appeal-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "recovered-margin-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "drug-payer-and-location-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "pbm-contract-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "network-amendment-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "prescription-claim-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "performance-measure-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dir-estimate-accrual",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dir-fee-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ger-guarantee-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "brand-generic-mix-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "network-rebate-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "remittance-adjustment-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "negative-balance-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "pharmacy-dispute-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "pbm-response-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "pbm-store-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ndc-and-drug-inventory",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "purchase-cost-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "appointment-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "administration-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ndc-to-hcpcs-crosswalk",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "j-code-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "unit-conversion-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "wastage-modifier-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "prior-authorization-linkage",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payer-reimbursement-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "missing-charge-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "underpayment-identification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "denial-remediation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "replacement-drug-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "drug-payer-and-site-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "manufacturer-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ndc-product-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "eligible-dispense-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "patient-program-qualification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "volume-tier-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "market-share-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "adherence-measure-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "outcome-guarantee-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "data-submission-sla",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "manufacturer-deduction-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-memo-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dispute-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-collection-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "program-drug-economics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    }
+  ]
+}

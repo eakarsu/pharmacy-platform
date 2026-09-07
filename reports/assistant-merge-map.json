@@ -1,0 +1,621 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "batch-document-completeness",
+      "courier-handoff-draft",
+      "operations-handoff-draft"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 6 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "batch-document-completeness",
+        "title": "Batch document completeness",
+        "originalPath": "/features/batch-document-completeness"
+      },
+      {
+        "id": "courier-handoff-draft",
+        "title": "Courier handoff draft",
+        "originalPath": "/features/courier-handoff-draft"
+      },
+      {
+        "id": "operations-handoff-draft",
+        "title": "Operations handoff draft",
+        "originalPath": "/features/operations-handoff-draft"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "contract-customer-registry",
+      "identifier-hierarchy-mapping",
+      "ndc-product-registry",
+      "rejection-remediation",
+      "accrual-true-up",
+      "wholesaler-product-analytics",
+      "ndc-and-drug-registry",
+      "rebate-and-allowance-accrual",
+      "claim-and-remittance-ingestion",
+      "payer-appeal-generation",
+      "recovered-margin-ledger",
+      "drug-payer-and-location-analytics",
+      "pbm-contract-library",
+      "prescription-claim-ingestion",
+      "performance-measure-calculation",
+      "dir-estimate-accrual",
+      "network-rebate-calculation",
+      "negative-balance-review",
+      "pharmacy-dispute-package",
+      "pbm-response-workflow",
+      "pbm-store-analytics",
+      "expiry-conflict-summary",
+      "ndc-and-drug-inventory",
+      "ndc-to-hcpcs-crosswalk",
+      "prior-authorization-linkage",
+      "denial-remediation",
+      "replacement-drug-tracking",
+      "drug-payer-and-site-analytics",
+      "manufacturer-agreement-library",
+      "eligible-dispense-ingestion",
+      "patient-program-qualification",
+      "volume-tier-calculation",
+      "market-share-calculation",
+      "data-submission-sla",
+      "manufacturer-deduction-review",
+      "dispute-package",
+      "cash-collection-tracking",
+      "program-drug-economics",
+      "drug-reviews",
+      "formulary-review"
+    ],
+    "ai": true,
+    "representativeId": "contract-customer-registry",
+    "description": "One assistant for 40 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "contract-customer-registry",
+        "title": "Contract customer registry",
+        "originalPath": "/features/contract-customer-registry"
+      },
+      {
+        "id": "identifier-hierarchy-mapping",
+        "title": "Identifier hierarchy mapping",
+        "originalPath": "/features/identifier-hierarchy-mapping"
+      },
+      {
+        "id": "ndc-product-registry",
+        "title": "NDC product registry",
+        "originalPath": "/features/ndc-product-registry"
+      },
+      {
+        "id": "rejection-remediation",
+        "title": "Rejection remediation",
+        "originalPath": "/features/rejection-remediation"
+      },
+      {
+        "id": "accrual-true-up",
+        "title": "Accrual true-up",
+        "originalPath": "/features/accrual-true-up"
+      },
+      {
+        "id": "wholesaler-product-analytics",
+        "title": "Wholesaler product analytics",
+        "originalPath": "/features/wholesaler-product-analytics"
+      },
+      {
+        "id": "ndc-and-drug-registry",
+        "title": "NDC and drug registry",
+        "originalPath": "/features/ndc-and-drug-registry"
+      },
+      {
+        "id": "rebate-and-allowance-accrual",
+        "title": "Rebate and allowance accrual",
+        "originalPath": "/features/rebate-and-allowance-accrual"
+      },
+      {
+        "id": "claim-and-remittance-ingestion",
+        "title": "Claim and remittance ingestion",
+        "originalPath": "/features/claim-and-remittance-ingestion"
+      },
+      {
+        "id": "payer-appeal-generation",
+        "title": "Payer appeal generation",
+        "originalPath": "/features/payer-appeal-generation"
+      },
+      {
+        "id": "recovered-margin-ledger",
+        "title": "Recovered margin ledger",
+        "originalPath": "/features/recovered-margin-ledger"
+      },
+      {
+        "id": "drug-payer-and-location-analytics",
+        "title": "Drug payer and location analytics",
+        "originalPath": "/features/drug-payer-and-location-analytics"
+      },
+      {
+        "id": "pbm-contract-library",
+        "title": "PBM contract library",
+        "originalPath": "/features/pbm-contract-library"
+      },
+      {
+        "id": "prescription-claim-ingestion",
+        "title": "Prescription claim ingestion",
+        "originalPath": "/features/prescription-claim-ingestion"
+      },
+      {
+        "id": "performance-measure-calculation",
+        "title": "Performance measure calculation",
+        "originalPath": "/features/performance-measure-calculation"
+      },
+      {
+        "id": "dir-estimate-accrual",
+        "title": "DIR estimate accrual",
+        "originalPath": "/features/dir-estimate-accrual"
+      },
+      {
+        "id": "network-rebate-calculation",
+        "title": "Network rebate calculation",
+        "originalPath": "/features/network-rebate-calculation"
+      },
+      {
+        "id": "negative-balance-review",
+        "title": "Negative balance review",
+        "originalPath": "/features/negative-balance-review"
+      },
+      {
+        "id": "pharmacy-dispute-package",
+        "title": "Pharmacy dispute package",
+        "originalPath": "/features/pharmacy-dispute-package"
+      },
+      {
+        "id": "pbm-response-workflow",
+        "title": "PBM response workflow",
+        "originalPath": "/features/pbm-response-workflow"
+      },
+      {
+        "id": "pbm-store-analytics",
+        "title": "PBM store analytics",
+        "originalPath": "/features/pbm-store-analytics"
+      },
+      {
+        "id": "expiry-conflict-summary",
+        "title": "Expiry conflict summary",
+        "originalPath": "/features/expiry-conflict-summary"
+      },
+      {
+        "id": "ndc-and-drug-inventory",
+        "title": "NDC and drug inventory",
+        "originalPath": "/features/ndc-and-drug-inventory"
+      },
+      {
+        "id": "ndc-to-hcpcs-crosswalk",
+        "title": "NDC-to-HCPCS crosswalk",
+        "originalPath": "/features/ndc-to-hcpcs-crosswalk"
+      },
+      {
+        "id": "prior-authorization-linkage",
+        "title": "Prior authorization linkage",
+        "originalPath": "/features/prior-authorization-linkage"
+      },
+      {
+        "id": "denial-remediation",
+        "title": "Denial remediation",
+        "originalPath": "/features/denial-remediation"
+      },
+      {
+        "id": "replacement-drug-tracking",
+        "title": "Replacement drug tracking",
+        "originalPath": "/features/replacement-drug-tracking"
+      },
+      {
+        "id": "drug-payer-and-site-analytics",
+        "title": "Drug payer and site analytics",
+        "originalPath": "/features/drug-payer-and-site-analytics"
+      },
+      {
+        "id": "manufacturer-agreement-library",
+        "title": "Manufacturer agreement library",
+        "originalPath": "/features/manufacturer-agreement-library"
+      },
+      {
+        "id": "eligible-dispense-ingestion",
+        "title": "Eligible dispense ingestion",
+        "originalPath": "/features/eligible-dispense-ingestion"
+      },
+      {
+        "id": "patient-program-qualification",
+        "title": "Patient program qualification",
+        "originalPath": "/features/patient-program-qualification"
+      },
+      {
+        "id": "volume-tier-calculation",
+        "title": "Volume tier calculation",
+        "originalPath": "/features/volume-tier-calculation"
+      },
+      {
+        "id": "market-share-calculation",
+        "title": "Market-share calculation",
+        "originalPath": "/features/market-share-calculation"
+      },
+      {
+        "id": "data-submission-sla",
+        "title": "Data submission SLA",
+        "originalPath": "/features/data-submission-sla"
+      },
+      {
+        "id": "manufacturer-deduction-review",
+        "title": "Manufacturer deduction review",
+        "originalPath": "/features/manufacturer-deduction-review"
+      },
+      {
+        "id": "dispute-package",
+        "title": "Dispute package",
+        "originalPath": "/features/dispute-package"
+      },
+      {
+        "id": "cash-collection-tracking",
+        "title": "Cash collection tracking",
+        "originalPath": "/features/cash-collection-tracking"
+      },
+      {
+        "id": "program-drug-economics",
+        "title": "Program drug economics",
+        "originalPath": "/features/program-drug-economics"
+      },
+      {
+        "id": "drug-reviews",
+        "title": "Drug Utilization Review",
+        "originalPath": "/features/drug-reviews"
+      },
+      {
+        "id": "formulary-review",
+        "title": "AI Formulary Review",
+        "originalPath": "/features/formulary-review"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "wholesaler-sales-ingestion",
+      "brand-generic-mix-validation",
+      "unit-conversion-calculation"
+    ],
+    "ai": true,
+    "representativeId": "wholesaler-sales-ingestion",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "wholesaler-sales-ingestion",
+        "title": "Wholesaler sales ingestion",
+        "originalPath": "/features/wholesaler-sales-ingestion"
+      },
+      {
+        "id": "brand-generic-mix-validation",
+        "title": "Brand generic mix validation",
+        "originalPath": "/features/brand-generic-mix-validation"
+      },
+      {
+        "id": "unit-conversion-calculation",
+        "title": "Unit conversion calculation",
+        "originalPath": "/features/unit-conversion-calculation"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "eligibility-date-validation",
+      "indirect-customer-validation",
+      "mac-appeal-eligibility",
+      "network-amendment-control",
+      "production-exception-narrative",
+      "evidence-completeness-review",
+      "j-code-validation",
+      "wastage-modifier-control",
+      "adherence-measure-validation",
+      "outcome-guarantee-evidence"
+    ],
+    "ai": true,
+    "representativeId": "eligibility-date-validation",
+    "description": "One assistant for 10 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "eligibility-date-validation",
+        "title": "Eligibility date validation",
+        "originalPath": "/features/eligibility-date-validation"
+      },
+      {
+        "id": "indirect-customer-validation",
+        "title": "Indirect customer validation",
+        "originalPath": "/features/indirect-customer-validation"
+      },
+      {
+        "id": "mac-appeal-eligibility",
+        "title": "MAC appeal eligibility",
+        "originalPath": "/features/mac-appeal-eligibility"
+      },
+      {
+        "id": "network-amendment-control",
+        "title": "Network amendment control",
+        "originalPath": "/features/network-amendment-control"
+      },
+      {
+        "id": "production-exception-narrative",
+        "title": "Production exception narrative",
+        "originalPath": "/features/production-exception-narrative"
+      },
+      {
+        "id": "evidence-completeness-review",
+        "title": "Evidence completeness review",
+        "originalPath": "/features/evidence-completeness-review"
+      },
+      {
+        "id": "j-code-validation",
+        "title": "J-code validation",
+        "originalPath": "/features/j-code-validation"
+      },
+      {
+        "id": "wastage-modifier-control",
+        "title": "Wastage modifier control",
+        "originalPath": "/features/wastage-modifier-control"
+      },
+      {
+        "id": "adherence-measure-validation",
+        "title": "Adherence measure validation",
+        "originalPath": "/features/adherence-measure-validation"
+      },
+      {
+        "id": "outcome-guarantee-evidence",
+        "title": "Outcome guarantee evidence",
+        "originalPath": "/features/outcome-guarantee-evidence"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "contract-price-calculation",
+      "wac-price-comparison",
+      "chargeback-amount-calculation",
+      "credit-memo-reconciliation",
+      "wholesaler-invoice-ingestion",
+      "contract-acquisition-cost-calculation",
+      "ingredient-cost-validation",
+      "dispensing-fee-validation",
+      "wholesaler-credit-reconciliation",
+      "dir-fee-recalculation",
+      "cash-credit-reconciliation",
+      "assay-record-reconciliation",
+      "purchase-cost-ingestion",
+      "administration-reconciliation",
+      "payer-reimbursement-calculation",
+      "underpayment-identification",
+      "invoice-generation"
+    ],
+    "ai": true,
+    "representativeId": "contract-price-calculation",
+    "description": "One assistant for 17 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "contract-price-calculation",
+        "title": "Contract price calculation",
+        "originalPath": "/features/contract-price-calculation"
+      },
+      {
+        "id": "wac-price-comparison",
+        "title": "WAC price comparison",
+        "originalPath": "/features/wac-price-comparison"
+      },
+      {
+        "id": "chargeback-amount-calculation",
+        "title": "Chargeback amount calculation",
+        "originalPath": "/features/chargeback-amount-calculation"
+      },
+      {
+        "id": "credit-memo-reconciliation",
+        "title": "Credit memo reconciliation",
+        "originalPath": "/features/credit-memo-reconciliation"
+      },
+      {
+        "id": "wholesaler-invoice-ingestion",
+        "title": "Wholesaler invoice ingestion",
+        "originalPath": "/features/wholesaler-invoice-ingestion"
+      },
+      {
+        "id": "contract-acquisition-cost-calculation",
+        "title": "Contract acquisition-cost calculation",
+        "originalPath": "/features/contract-acquisition-cost-calculation"
+      },
+      {
+        "id": "ingredient-cost-validation",
+        "title": "Ingredient-cost validation",
+        "originalPath": "/features/ingredient-cost-validation"
+      },
+      {
+        "id": "dispensing-fee-validation",
+        "title": "Dispensing-fee validation",
+        "originalPath": "/features/dispensing-fee-validation"
+      },
+      {
+        "id": "wholesaler-credit-reconciliation",
+        "title": "Wholesaler credit reconciliation",
+        "originalPath": "/features/wholesaler-credit-reconciliation"
+      },
+      {
+        "id": "dir-fee-recalculation",
+        "title": "DIR fee recalculation",
+        "originalPath": "/features/dir-fee-recalculation"
+      },
+      {
+        "id": "cash-credit-reconciliation",
+        "title": "Cash credit reconciliation",
+        "originalPath": "/features/cash-credit-reconciliation"
+      },
+      {
+        "id": "assay-record-reconciliation",
+        "title": "Assay record reconciliation",
+        "originalPath": "/features/assay-record-reconciliation"
+      },
+      {
+        "id": "purchase-cost-ingestion",
+        "title": "Purchase cost ingestion",
+        "originalPath": "/features/purchase-cost-ingestion"
+      },
+      {
+        "id": "administration-reconciliation",
+        "title": "Administration reconciliation",
+        "originalPath": "/features/administration-reconciliation"
+      },
+      {
+        "id": "payer-reimbursement-calculation",
+        "title": "Payer reimbursement calculation",
+        "originalPath": "/features/payer-reimbursement-calculation"
+      },
+      {
+        "id": "underpayment-identification",
+        "title": "Underpayment identification",
+        "originalPath": "/features/underpayment-identification"
+      },
+      {
+        "id": "invoice-generation",
+        "title": "Invoice generation",
+        "originalPath": "/features/invoice-generation"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "duplicate-claim-detection",
+      "wholesaler-deduction-matching",
+      "benchmark-comparison",
+      "negative-margin-detection",
+      "reversal-and-rebill-analysis",
+      "specialty-margin-analysis",
+      "ger-guarantee-analysis",
+      "remittance-adjustment-matching",
+      "missing-charge-detection",
+      "reorder-optimizer"
+    ],
+    "ai": true,
+    "representativeId": "duplicate-claim-detection",
+    "description": "One assistant for 10 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "duplicate-claim-detection",
+        "title": "Duplicate claim detection",
+        "originalPath": "/features/duplicate-claim-detection"
+      },
+      {
+        "id": "wholesaler-deduction-matching",
+        "title": "Wholesaler deduction matching",
+        "originalPath": "/features/wholesaler-deduction-matching"
+      },
+      {
+        "id": "benchmark-comparison",
+        "title": "Benchmark comparison",
+        "originalPath": "/features/benchmark-comparison"
+      },
+      {
+        "id": "negative-margin-detection",
+        "title": "Negative-margin detection",
+        "originalPath": "/features/negative-margin-detection"
+      },
+      {
+        "id": "reversal-and-rebill-analysis",
+        "title": "Reversal and rebill analysis",
+        "originalPath": "/features/reversal-and-rebill-analysis"
+      },
+      {
+        "id": "specialty-margin-analysis",
+        "title": "Specialty margin analysis",
+        "originalPath": "/features/specialty-margin-analysis"
+      },
+      {
+        "id": "ger-guarantee-analysis",
+        "title": "GER guarantee analysis",
+        "originalPath": "/features/ger-guarantee-analysis"
+      },
+      {
+        "id": "remittance-adjustment-matching",
+        "title": "Remittance adjustment matching",
+        "originalPath": "/features/remittance-adjustment-matching"
+      },
+      {
+        "id": "missing-charge-detection",
+        "title": "Missing charge detection",
+        "originalPath": "/features/missing-charge-detection"
+      },
+      {
+        "id": "reorder-optimizer",
+        "title": "AI Reorder Optimizer",
+        "originalPath": "/features/reorder-optimizer"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "order-scheduling-brief",
+      "appointment-matching"
+    ],
+    "ai": true,
+    "representativeId": "order-scheduling-brief",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "order-scheduling-brief",
+        "title": "Order scheduling brief",
+        "originalPath": "/features/order-scheduling-brief"
+      },
+      {
+        "id": "appointment-matching",
+        "title": "Appointment matching",
+        "originalPath": "/features/appointment-matching"
+      }
+    ]
+  }
+]

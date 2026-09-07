@@ -1,0 +1,35 @@
+{
+  "id": "pharmacy-platform",
+  "title": "Pharmacy operations & drug reimbursement",
+  "buyer": "Pharmacies and medication service operators",
+  "sourceCount": 10,
+  "sources": [
+    "ai-340b-contract-pharmacy-audit-recovery",
+    "ai-pbm-contract-rebate-audit",
+    "ai-pharma-government-pricing-rebate-reconciliation",
+    "ai-pharma-wholesaler-chargeback-reconciliation",
+    "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+    "ai-pharmacy-dir-fee-rebate-recovery",
+    "ai-radiopharmacy-production-and-delivery",
+    "ai-specialty-drug-buy-bill-charge-capture",
+    "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+    "AIPharmacyOperationsManager"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46004,
+  "productName": "Pharmacy operations Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/ai-340b-contract-pharmacy-audit-recovery",
+    "/Volumes/external/projects/ai-pbm-contract-rebate-audit",
+    "/Volumes/external/projects/ai-pharma-government-pricing-rebate-reconciliation",
+    "/Volumes/external/projects/ai-pharma-wholesaler-chargeback-reconciliation",
+    "/Volumes/external/projects/ai-pharmacy-acquisition-reimbursement-margin-recovery",
+    "/Volumes/external/projects/ai-pharmacy-dir-fee-rebate-recovery",
+    "/Volumes/external/projects/ai-radiopharmacy-production-and-delivery",
+    "/Volumes/external/projects/ai-specialty-drug-buy-bill-charge-capture",
+    "/Volumes/external/projects/ai-specialty-pharmacy-manufacturer-rebate-recovery",
+    "/Volumes/external/projects/AIPharmacyOperationsManager"
+  ]
+}

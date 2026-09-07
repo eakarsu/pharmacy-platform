@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ai-340b-contract-pharmacy-audit-recovery",
+    "name": "340b contract pharmacy audit recovery",
+    "sourceProject": "ai-340b-contract-pharmacy-audit-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-pbm-contract-rebate-audit",
+    "name": "Pbm contract rebate audit",
+    "sourceProject": "ai-pbm-contract-rebate-audit",
+    "services": []
+  },
+  {
+    "id": "ai-pharma-government-pricing-rebate-reconciliation",
+    "name": "Pharma government pricing rebate reconciliation",
+    "sourceProject": "ai-pharma-government-pricing-rebate-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-pharma-wholesaler-chargeback-reconciliation",
+    "name": "Pharma wholesaler chargeback reconciliation",
+    "sourceProject": "ai-pharma-wholesaler-chargeback-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+    "name": "Pharmacy acquisition reimbursement margin recovery",
+    "sourceProject": "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-pharmacy-dir-fee-rebate-recovery",
+    "name": "Pharmacy dir fee rebate recovery",
+    "sourceProject": "ai-pharmacy-dir-fee-rebate-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-radiopharmacy-production-and-delivery",
+    "name": "Radiopharmacy production and delivery",
+    "sourceProject": "ai-radiopharmacy-production-and-delivery",
+    "services": []
+  },
+  {
+    "id": "ai-specialty-drug-buy-bill-charge-capture",
+    "name": "Specialty drug buy bill charge capture",
+    "sourceProject": "ai-specialty-drug-buy-bill-charge-capture",
+    "services": []
+  },
+  {
+    "id": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+    "name": "Specialty pharmacy manufacturer rebate recovery",
+    "sourceProject": "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+    "services": []
+  },
+  {
+    "id": "AIPharmacyOperationsManager",
+    "name": "Pharmacy operations manager",
+    "sourceProject": "AIPharmacyOperationsManager",
+    "services": []
+  }
+]

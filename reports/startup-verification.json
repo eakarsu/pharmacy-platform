@@ -1,0 +1,8 @@
+{
+  "id": "pharmacy-platform",
+  "port": 46004,
+  "status": "passed",
+  "startScript": true,
+  "health": true,
+  "verifiedAt": "2026-09-07T14:38:25.576Z"
+}
