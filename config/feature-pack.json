@@ -1,0 +1,22 @@
+{
+  "insights": [
+    {
+      "id": "insight-prescriptions",
+      "feature": "prescriptions",
+      "title": "Prescription verification insight",
+      "focus": "Summarize Prescription Verification records: totals, status mix, field coverage and recent activity. Use only supplied records; no dispensing or clinical advice."
+    },
+    {
+      "id": "insight-inventory",
+      "feature": "inventory",
+      "title": "Inventory insight",
+      "focus": "Summarize Inventory Management records: totals, status mix, field coverage and recent activity. Use only supplied records; no dispensing or clinical advice."
+    },
+    {
+      "id": "priority-actions",
+      "feature": "tasks",
+      "title": "Priority actions",
+      "focus": "Overdue and upcoming tasks and deadlines, including unassigned work."
+    }
+  ]
+}
